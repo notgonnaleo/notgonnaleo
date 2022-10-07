@@ -6,7 +6,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="[https://stickers.wiki/static/stickers/obladaet/file_209802.webp?ezimgfmt=rs:134x134/rscb1/ng:webp/ngcb1](https://logodix.com/logo/16019.jpg)">
 </div>
 
  
