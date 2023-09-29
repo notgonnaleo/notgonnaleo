@@ -8,7 +8,6 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <div>
-  <h1>My @'s</h1>
   <p>@notgonnaleo</p>
   <p>@leoremipsum</p>
 </div>
